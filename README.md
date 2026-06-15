@@ -1,1 +1,1 @@
-![echidna <3](assets/banner.png)
+![echidna <3](header.png)
