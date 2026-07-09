@@ -1,3 +1,3 @@
-![echidna <3](echidna.png)
+![echidna <3](header.png)
 
 hi
