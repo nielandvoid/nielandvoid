@@ -1,3 +1,3 @@
-![starry-void](void.jpg)
+![starry-void](void-0.jpg)
 
 hi
