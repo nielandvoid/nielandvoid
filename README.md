@@ -1,1 +1,1 @@
-![void](banner.gif)
+![void](void-init.png)
